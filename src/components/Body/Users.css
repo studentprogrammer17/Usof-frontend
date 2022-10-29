@@ -1,0 +1,29 @@
+
+    .search-result-item {
+        border: 1px solid black;
+        margin: 10px;
+        width: 70%;
+        text-align:center;
+        display:inline-block;
+        background-color: #eee;
+    }
+
+    #searchField {
+        margin-bottom: 15px;
+        width: 50%;
+        text-align:center;
+        display:inline-block;
+        margin-left: 20px;
+    }
+
+    .image-link {
+        float: left;
+        width: 100px;
+        height: 100px;
+    }
+
+
+  
+
+        
+      
